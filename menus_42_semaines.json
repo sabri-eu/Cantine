@@ -1,0 +1,1976 @@
+[
+    {
+        "Lundi": [
+            "Présence de Viandes / Volailles / Poissons / Œufs",
+            "Présence de Garnitures Frites / Produits reconstitués",
+            "Présence de Crudités / Fruits Crus",
+            "Présence de Féculents / Légumes secs",
+            "Présence de Charcuteries / Préparations pâtissières",
+            "Présence de Dessert / Pâtisseries",
+            "Présence de Légumes verts / Fruits cuits"
+        ],
+        "Mardi": [
+            "Présence de Féculents / Légumes secs",
+            "Présence de Fromages / Laitages",
+            "Présence de Viandes / Volailles / Poissons / Œufs",
+            "Présence de Crudités / Fruits Crus",
+            "Présence de Charcuteries / Préparations pâtissières",
+            "Présence de Dessert / Pâtisseries",
+            "Présence de Légumes verts / Fruits cuits"
+        ],
+        "Mercredi": [
+            "Présence de Charcuteries / Préparations pâtissières",
+            "Présence de Garnitures Frites / Produits reconstitués",
+            "Présence de Crudités / Fruits Crus",
+            "Présence de Fromages / Laitages",
+            "Présence de Viandes / Volailles / Poissons / Œufs",
+            "Présence de Dessert / Pâtisseries",
+            "Présence de Légumes verts / Fruits cuits"
+        ],
+        "Jeudi": [
+            "Présence de Crudités / Fruits Crus",
+            "Présence de Charcuteries / Préparations pâtissières",
+            "Présence de Fromages / Laitages",
+            "Présence de Viandes / Volailles / Poissons / Œufs",
+            "Présence de Féculents / Légumes secs",
+            "Présence de Dessert / Pâtisseries",
+            "Présence de Légumes verts / Fruits cuits"
+        ],
+        "Vendredi": [
+            "Présence de Garnitures Frites / Produits reconstitués",
+            "Présence de Charcuteries / Préparations pâtissières",
+            "Présence de Féculents / Légumes secs",
+            "Présence de Crudités / Fruits Crus",
+            "Présence de Viandes / Volailles / Poissons / Œufs",
+            "Présence de Dessert / Pâtisseries",
+            "Présence de Légumes verts / Fruits cuits"
+        ]
+    },
+    {
+        "Lundi": [
+            "Présence de Féculents / Légumes secs",
+            "Présence de Fromages / Laitages",
+            "Présence de Crudités / Fruits Crus",
+            "Présence de Charcuteries / Préparations pâtissières",
+            "Présence de Viandes / Volailles / Poissons / Œufs",
+            "Présence de Dessert / Pâtisseries",
+            "Présence de Légumes verts / Fruits cuits"
+        ],
+        "Mardi": [
+            "Présence de Viandes / Volailles / Poissons / Œufs",
+            "Présence de Garnitures Frites / Produits reconstitués",
+            "Présence de Crudités / Fruits Crus",
+            "Présence de Féculents / Légumes secs",
+            "Présence de Fromages / Laitages",
+            "Présence de Dessert / Pâtisseries",
+            "Présence de Légumes verts / Fruits cuits"
+        ],
+        "Mercredi": [
+            "Présence de Viandes / Volailles / Poissons / Œufs",
+            "Présence de Féculents / Légumes secs",
+            "Présence de Crudités / Fruits Crus",
+            "Présence de Garnitures Frites / Produits reconstitués",
+            "Présence de Fromages / Laitages",
+            "Présence de Dessert / Pâtisseries",
+            "Présence de Légumes verts / Fruits cuits"
+        ],
+        "Jeudi": [
+            "Présence de Charcuteries / Préparations pâtissières",
+            "Présence de Garnitures Frites / Produits reconstitués",
+            "Présence de Fromages / Laitages",
+            "Présence de Crudités / Fruits Crus",
+            "Présence de Féculents / Légumes secs",
+            "Présence de Dessert / Pâtisseries",
+            "Présence de Légumes verts / Fruits cuits"
+        ],
+        "Vendredi": [
+            "Présence de Charcuteries / Préparations pâtissières",
+            "Présence de Garnitures Frites / Produits reconstitués",
+            "Présence de Fromages / Laitages",
+            "Présence de Féculents / Légumes secs",
+            "Présence de Viandes / Volailles / Poissons / Œufs",
+            "Présence de Dessert / Pâtisseries",
+            "Présence de Légumes verts / Fruits cuits"
+        ]
+    },
+    {
+        "Lundi": [
+            "Présence de Viandes / Volailles / Poissons / Œufs",
+            "Présence de Charcuteries / Préparations pâtissières",
+            "Présence de Fromages / Laitages",
+            "Présence de Féculents / Légumes secs",
+            "Présence de Garnitures Frites / Produits reconstitués",
+            "Présence de Dessert / Pâtisseries",
+            "Présence de Légumes verts / Fruits cuits"
+        ],
+        "Mardi": [
+            "Présence de Féculents / Légumes secs",
+            "Présence de Fromages / Laitages",
+            "Présence de Garnitures Frites / Produits reconstitués",
+            "Présence de Viandes / Volailles / Poissons / Œufs",
+            "Présence de Charcuteries / Préparations pâtissières",
+            "Présence de Dessert / Pâtisseries",
+            "Présence de Légumes verts / Fruits cuits"
+        ],
+        "Mercredi": [
+            "Présence de Garnitures Frites / Produits reconstitués",
+            "Présence de Viandes / Volailles / Poissons / Œufs",
+            "Présence de Charcuteries / Préparations pâtissières",
+            "Présence de Crudités / Fruits Crus",
+            "Présence de Féculents / Légumes secs",
+            "Présence de Dessert / Pâtisseries",
+            "Présence de Légumes verts / Fruits cuits"
+        ],
+        "Jeudi": [
+            "Présence de Féculents / Légumes secs",
+            "Présence de Fromages / Laitages",
+            "Présence de Garnitures Frites / Produits reconstitués",
+            "Présence de Crudités / Fruits Crus",
+            "Présence de Charcuteries / Préparations pâtissières",
+            "Présence de Dessert / Pâtisseries",
+            "Présence de Légumes verts / Fruits cuits"
+        ],
+        "Vendredi": [
+            "Présence de Fromages / Laitages",
+            "Présence de Crudités / Fruits Crus",
+            "Présence de Charcuteries / Préparations pâtissières",
+            "Présence de Féculents / Légumes secs",
+            "Présence de Viandes / Volailles / Poissons / Œufs",
+            "Présence de Dessert / Pâtisseries",
+            "Présence de Légumes verts / Fruits cuits"
+        ]
+    },
+    {
+        "Lundi": [
+            "Présence de Garnitures Frites / Produits reconstitués",
+            "Présence de Fromages / Laitages",
+            "Présence de Féculents / Légumes secs",
+            "Présence de Crudités / Fruits Crus",
+            "Présence de Charcuteries / Préparations pâtissières",
+            "Présence de Dessert / Pâtisseries",
+            "Présence de Légumes verts / Fruits cuits"
+        ],
+        "Mardi": [
+            "Présence de Crudités / Fruits Crus",
+            "Présence de Féculents / Légumes secs",
+            "Présence de Charcuteries / Préparations pâtissières",
+            "Présence de Viandes / Volailles / Poissons / Œufs",
+            "Présence de Fromages / Laitages",
+            "Présence de Dessert / Pâtisseries",
+            "Présence de Légumes verts / Fruits cuits"
+        ],
+        "Mercredi": [
+            "Présence de Crudités / Fruits Crus",
+            "Présence de Viandes / Volailles / Poissons / Œufs",
+            "Présence de Charcuteries / Préparations pâtissières",
+            "Présence de Garnitures Frites / Produits reconstitués",
+            "Présence de Fromages / Laitages",
+            "Présence de Dessert / Pâtisseries",
+            "Présence de Légumes verts / Fruits cuits"
+        ],
+        "Jeudi": [
+            "Présence de Viandes / Volailles / Poissons / Œufs",
+            "Présence de Charcuteries / Préparations pâtissières",
+            "Présence de Crudités / Fruits Crus",
+            "Présence de Féculents / Légumes secs",
+            "Présence de Garnitures Frites / Produits reconstitués",
+            "Présence de Dessert / Pâtisseries",
+            "Présence de Légumes verts / Fruits cuits"
+        ],
+        "Vendredi": [
+            "Présence de Fromages / Laitages",
+            "Présence de Charcuteries / Préparations pâtissières",
+            "Présence de Garnitures Frites / Produits reconstitués",
+            "Présence de Viandes / Volailles / Poissons / Œufs",
+            "Présence de Féculents / Légumes secs",
+            "Présence de Dessert / Pâtisseries",
+            "Présence de Légumes verts / Fruits cuits"
+        ]
+    },
+    {
+        "Lundi": [
+            "Présence de Fromages / Laitages",
+            "Présence de Crudités / Fruits Crus",
+            "Présence de Garnitures Frites / Produits reconstitués",
+            "Présence de Féculents / Légumes secs",
+            "Présence de Viandes / Volailles / Poissons / Œufs",
+            "Présence de Dessert / Pâtisseries",
+            "Présence de Légumes verts / Fruits cuits"
+        ],
+        "Mardi": [
+            "Présence de Charcuteries / Préparations pâtissières",
+            "Présence de Garnitures Frites / Produits reconstitués",
+            "Présence de Crudités / Fruits Crus",
+            "Présence de Féculents / Légumes secs",
+            "Présence de Fromages / Laitages",
+            "Présence de Dessert / Pâtisseries",
+            "Présence de Légumes verts / Fruits cuits"
+        ],
+        "Mercredi": [
+            "Présence de Crudités / Fruits Crus",
+            "Présence de Charcuteries / Préparations pâtissières",
+            "Présence de Viandes / Volailles / Poissons / Œufs",
+            "Présence de Fromages / Laitages",
+            "Présence de Féculents / Légumes secs",
+            "Présence de Dessert / Pâtisseries",
+            "Présence de Légumes verts / Fruits cuits"
+        ],
+        "Jeudi": [
+            "Présence de Fromages / Laitages",
+            "Présence de Viandes / Volailles / Poissons / Œufs",
+            "Présence de Garnitures Frites / Produits reconstitués",
+            "Présence de Féculents / Légumes secs",
+            "Présence de Crudités / Fruits Crus",
+            "Présence de Dessert / Pâtisseries",
+            "Présence de Légumes verts / Fruits cuits"
+        ],
+        "Vendredi": [
+            "Présence de Viandes / Volailles / Poissons / Œufs",
+            "Présence de Féculents / Légumes secs",
+            "Présence de Fromages / Laitages",
+            "Présence de Garnitures Frites / Produits reconstitués",
+            "Présence de Charcuteries / Préparations pâtissières",
+            "Présence de Dessert / Pâtisseries",
+            "Présence de Légumes verts / Fruits cuits"
+        ]
+    },
+    {
+        "Lundi": [
+            "Présence de Crudités / Fruits Crus",
+            "Présence de Féculents / Légumes secs",
+            "Présence de Charcuteries / Préparations pâtissières",
+            "Présence de Fromages / Laitages",
+            "Présence de Garnitures Frites / Produits reconstitués",
+            "Présence de Dessert / Pâtisseries",
+            "Présence de Légumes verts / Fruits cuits"
+        ],
+        "Mardi": [
+            "Présence de Garnitures Frites / Produits reconstitués",
+            "Présence de Charcuteries / Préparations pâtissières",
+            "Présence de Crudités / Fruits Crus",
+            "Présence de Féculents / Légumes secs",
+            "Présence de Fromages / Laitages",
+            "Présence de Dessert / Pâtisseries",
+            "Présence de Légumes verts / Fruits cuits"
+        ],
+        "Mercredi": [
+            "Présence de Viandes / Volailles / Poissons / Œufs",
+            "Présence de Garnitures Frites / Produits reconstitués",
+            "Présence de Charcuteries / Préparations pâtissières",
+            "Présence de Féculents / Légumes secs",
+            "Présence de Crudités / Fruits Crus",
+            "Présence de Dessert / Pâtisseries",
+            "Présence de Légumes verts / Fruits cuits"
+        ],
+        "Jeudi": [
+            "Présence de Fromages / Laitages",
+            "Présence de Crudités / Fruits Crus",
+            "Présence de Viandes / Volailles / Poissons / Œufs",
+            "Présence de Charcuteries / Préparations pâtissières",
+            "Présence de Garnitures Frites / Produits reconstitués",
+            "Présence de Dessert / Pâtisseries",
+            "Présence de Légumes verts / Fruits cuits"
+        ],
+        "Vendredi": [
+            "Présence de Charcuteries / Préparations pâtissières",
+            "Présence de Féculents / Légumes secs",
+            "Présence de Garnitures Frites / Produits reconstitués",
+            "Présence de Fromages / Laitages",
+            "Présence de Viandes / Volailles / Poissons / Œufs",
+            "Présence de Dessert / Pâtisseries",
+            "Présence de Légumes verts / Fruits cuits"
+        ]
+    },
+    {
+        "Lundi": [
+            "Présence de Crudités / Fruits Crus",
+            "Présence de Garnitures Frites / Produits reconstitués",
+            "Présence de Féculents / Légumes secs",
+            "Présence de Fromages / Laitages",
+            "Présence de Viandes / Volailles / Poissons / Œufs",
+            "Présence de Dessert / Pâtisseries",
+            "Présence de Légumes verts / Fruits cuits"
+        ],
+        "Mardi": [
+            "Présence de Garnitures Frites / Produits reconstitués",
+            "Présence de Charcuteries / Préparations pâtissières",
+            "Présence de Fromages / Laitages",
+            "Présence de Viandes / Volailles / Poissons / Œufs",
+            "Présence de Féculents / Légumes secs",
+            "Présence de Dessert / Pâtisseries",
+            "Présence de Légumes verts / Fruits cuits"
+        ],
+        "Mercredi": [
+            "Présence de Charcuteries / Préparations pâtissières",
+            "Présence de Féculents / Légumes secs",
+            "Présence de Crudités / Fruits Crus",
+            "Présence de Fromages / Laitages",
+            "Présence de Viandes / Volailles / Poissons / Œufs",
+            "Présence de Dessert / Pâtisseries",
+            "Présence de Légumes verts / Fruits cuits"
+        ],
+        "Jeudi": [
+            "Présence de Viandes / Volailles / Poissons / Œufs",
+            "Présence de Féculents / Légumes secs",
+            "Présence de Crudités / Fruits Crus",
+            "Présence de Charcuteries / Préparations pâtissières",
+            "Présence de Fromages / Laitages",
+            "Présence de Dessert / Pâtisseries",
+            "Présence de Légumes verts / Fruits cuits"
+        ],
+        "Vendredi": [
+            "Présence de Charcuteries / Préparations pâtissières",
+            "Présence de Garnitures Frites / Produits reconstitués",
+            "Présence de Viandes / Volailles / Poissons / Œufs",
+            "Présence de Fromages / Laitages",
+            "Présence de Féculents / Légumes secs",
+            "Présence de Dessert / Pâtisseries",
+            "Présence de Légumes verts / Fruits cuits"
+        ]
+    },
+    {
+        "Lundi": [
+            "Présence de Crudités / Fruits Crus",
+            "Présence de Garnitures Frites / Produits reconstitués",
+            "Présence de Viandes / Volailles / Poissons / Œufs",
+            "Présence de Féculents / Légumes secs",
+            "Présence de Charcuteries / Préparations pâtissières",
+            "Présence de Dessert / Pâtisseries",
+            "Présence de Légumes verts / Fruits cuits"
+        ],
+        "Mardi": [
+            "Présence de Viandes / Volailles / Poissons / Œufs",
+            "Présence de Crudités / Fruits Crus",
+            "Présence de Féculents / Légumes secs",
+            "Présence de Charcuteries / Préparations pâtissières",
+            "Présence de Garnitures Frites / Produits reconstitués",
+            "Présence de Dessert / Pâtisseries",
+            "Présence de Légumes verts / Fruits cuits"
+        ],
+        "Mercredi": [
+            "Présence de Charcuteries / Préparations pâtissières",
+            "Présence de Crudités / Fruits Crus",
+            "Présence de Féculents / Légumes secs",
+            "Présence de Garnitures Frites / Produits reconstitués",
+            "Présence de Fromages / Laitages",
+            "Présence de Dessert / Pâtisseries",
+            "Présence de Légumes verts / Fruits cuits"
+        ],
+        "Jeudi": [
+            "Présence de Fromages / Laitages",
+            "Présence de Crudités / Fruits Crus",
+            "Présence de Féculents / Légumes secs",
+            "Présence de Charcuteries / Préparations pâtissières",
+            "Présence de Garnitures Frites / Produits reconstitués",
+            "Présence de Dessert / Pâtisseries",
+            "Présence de Légumes verts / Fruits cuits"
+        ],
+        "Vendredi": [
+            "Présence de Viandes / Volailles / Poissons / Œufs",
+            "Présence de Crudités / Fruits Crus",
+            "Présence de Garnitures Frites / Produits reconstitués",
+            "Présence de Fromages / Laitages",
+            "Présence de Charcuteries / Préparations pâtissières",
+            "Présence de Dessert / Pâtisseries",
+            "Présence de Légumes verts / Fruits cuits"
+        ]
+    },
+    {
+        "Lundi": [
+            "Présence de Garnitures Frites / Produits reconstitués",
+            "Présence de Féculents / Légumes secs",
+            "Présence de Charcuteries / Préparations pâtissières",
+            "Présence de Viandes / Volailles / Poissons / Œufs",
+            "Présence de Fromages / Laitages",
+            "Présence de Dessert / Pâtisseries",
+            "Présence de Légumes verts / Fruits cuits"
+        ],
+        "Mardi": [
+            "Présence de Fromages / Laitages",
+            "Présence de Féculents / Légumes secs",
+            "Présence de Viandes / Volailles / Poissons / Œufs",
+            "Présence de Crudités / Fruits Crus",
+            "Présence de Charcuteries / Préparations pâtissières",
+            "Présence de Dessert / Pâtisseries",
+            "Présence de Légumes verts / Fruits cuits"
+        ],
+        "Mercredi": [
+            "Présence de Crudités / Fruits Crus",
+            "Présence de Féculents / Légumes secs",
+            "Présence de Charcuteries / Préparations pâtissières",
+            "Présence de Fromages / Laitages",
+            "Présence de Viandes / Volailles / Poissons / Œufs",
+            "Présence de Dessert / Pâtisseries",
+            "Présence de Légumes verts / Fruits cuits"
+        ],
+        "Jeudi": [
+            "Présence de Viandes / Volailles / Poissons / Œufs",
+            "Présence de Fromages / Laitages",
+            "Présence de Garnitures Frites / Produits reconstitués",
+            "Présence de Crudités / Fruits Crus",
+            "Présence de Féculents / Légumes secs",
+            "Présence de Dessert / Pâtisseries",
+            "Présence de Légumes verts / Fruits cuits"
+        ],
+        "Vendredi": [
+            "Présence de Féculents / Légumes secs",
+            "Présence de Charcuteries / Préparations pâtissières",
+            "Présence de Viandes / Volailles / Poissons / Œufs",
+            "Présence de Garnitures Frites / Produits reconstitués",
+            "Présence de Crudités / Fruits Crus",
+            "Présence de Dessert / Pâtisseries",
+            "Présence de Légumes verts / Fruits cuits"
+        ]
+    },
+    {
+        "Lundi": [
+            "Présence de Féculents / Légumes secs",
+            "Présence de Viandes / Volailles / Poissons / Œufs",
+            "Présence de Charcuteries / Préparations pâtissières",
+            "Présence de Fromages / Laitages",
+            "Présence de Garnitures Frites / Produits reconstitués",
+            "Présence de Dessert / Pâtisseries",
+            "Présence de Légumes verts / Fruits cuits"
+        ],
+        "Mardi": [
+            "Présence de Charcuteries / Préparations pâtissières",
+            "Présence de Viandes / Volailles / Poissons / Œufs",
+            "Présence de Féculents / Légumes secs",
+            "Présence de Fromages / Laitages",
+            "Présence de Garnitures Frites / Produits reconstitués",
+            "Présence de Dessert / Pâtisseries",
+            "Présence de Légumes verts / Fruits cuits"
+        ],
+        "Mercredi": [
+            "Présence de Fromages / Laitages",
+            "Présence de Garnitures Frites / Produits reconstitués",
+            "Présence de Charcuteries / Préparations pâtissières",
+            "Présence de Crudités / Fruits Crus",
+            "Présence de Viandes / Volailles / Poissons / Œufs",
+            "Présence de Dessert / Pâtisseries",
+            "Présence de Légumes verts / Fruits cuits"
+        ],
+        "Jeudi": [
+            "Présence de Crudités / Fruits Crus",
+            "Présence de Charcuteries / Préparations pâtissières",
+            "Présence de Viandes / Volailles / Poissons / Œufs",
+            "Présence de Garnitures Frites / Produits reconstitués",
+            "Présence de Fromages / Laitages",
+            "Présence de Dessert / Pâtisseries",
+            "Présence de Légumes verts / Fruits cuits"
+        ],
+        "Vendredi": [
+            "Présence de Charcuteries / Préparations pâtissières",
+            "Présence de Garnitures Frites / Produits reconstitués",
+            "Présence de Crudités / Fruits Crus",
+            "Présence de Fromages / Laitages",
+            "Présence de Féculents / Légumes secs",
+            "Présence de Dessert / Pâtisseries",
+            "Présence de Légumes verts / Fruits cuits"
+        ]
+    },
+    {
+        "Lundi": [
+            "Présence de Crudités / Fruits Crus",
+            "Présence de Féculents / Légumes secs",
+            "Présence de Charcuteries / Préparations pâtissières",
+            "Présence de Fromages / Laitages",
+            "Présence de Viandes / Volailles / Poissons / Œufs",
+            "Présence de Dessert / Pâtisseries",
+            "Présence de Légumes verts / Fruits cuits"
+        ],
+        "Mardi": [
+            "Présence de Charcuteries / Préparations pâtissières",
+            "Présence de Viandes / Volailles / Poissons / Œufs",
+            "Présence de Féculents / Légumes secs",
+            "Présence de Garnitures Frites / Produits reconstitués",
+            "Présence de Fromages / Laitages",
+            "Présence de Dessert / Pâtisseries",
+            "Présence de Légumes verts / Fruits cuits"
+        ],
+        "Mercredi": [
+            "Présence de Charcuteries / Préparations pâtissières",
+            "Présence de Crudités / Fruits Crus",
+            "Présence de Garnitures Frites / Produits reconstitués",
+            "Présence de Viandes / Volailles / Poissons / Œufs",
+            "Présence de Fromages / Laitages",
+            "Présence de Dessert / Pâtisseries",
+            "Présence de Légumes verts / Fruits cuits"
+        ],
+        "Jeudi": [
+            "Présence de Viandes / Volailles / Poissons / Œufs",
+            "Présence de Charcuteries / Préparations pâtissières",
+            "Présence de Féculents / Légumes secs",
+            "Présence de Garnitures Frites / Produits reconstitués",
+            "Présence de Fromages / Laitages",
+            "Présence de Dessert / Pâtisseries",
+            "Présence de Légumes verts / Fruits cuits"
+        ],
+        "Vendredi": [
+            "Présence de Garnitures Frites / Produits reconstitués",
+            "Présence de Crudités / Fruits Crus",
+            "Présence de Féculents / Légumes secs",
+            "Présence de Fromages / Laitages",
+            "Présence de Viandes / Volailles / Poissons / Œufs",
+            "Présence de Dessert / Pâtisseries",
+            "Présence de Légumes verts / Fruits cuits"
+        ]
+    },
+    {
+        "Lundi": [
+            "Présence de Viandes / Volailles / Poissons / Œufs",
+            "Présence de Garnitures Frites / Produits reconstitués",
+            "Présence de Féculents / Légumes secs",
+            "Présence de Fromages / Laitages",
+            "Présence de Crudités / Fruits Crus",
+            "Présence de Dessert / Pâtisseries",
+            "Présence de Légumes verts / Fruits cuits"
+        ],
+        "Mardi": [
+            "Présence de Charcuteries / Préparations pâtissières",
+            "Présence de Féculents / Légumes secs",
+            "Présence de Viandes / Volailles / Poissons / Œufs",
+            "Présence de Fromages / Laitages",
+            "Présence de Crudités / Fruits Crus",
+            "Présence de Dessert / Pâtisseries",
+            "Présence de Légumes verts / Fruits cuits"
+        ],
+        "Mercredi": [
+            "Présence de Fromages / Laitages",
+            "Présence de Féculents / Légumes secs",
+            "Présence de Garnitures Frites / Produits reconstitués",
+            "Présence de Crudités / Fruits Crus",
+            "Présence de Viandes / Volailles / Poissons / Œufs",
+            "Présence de Dessert / Pâtisseries",
+            "Présence de Légumes verts / Fruits cuits"
+        ],
+        "Jeudi": [
+            "Présence de Garnitures Frites / Produits reconstitués",
+            "Présence de Viandes / Volailles / Poissons / Œufs",
+            "Présence de Charcuteries / Préparations pâtissières",
+            "Présence de Féculents / Légumes secs",
+            "Présence de Crudités / Fruits Crus",
+            "Présence de Dessert / Pâtisseries",
+            "Présence de Légumes verts / Fruits cuits"
+        ],
+        "Vendredi": [
+            "Présence de Crudités / Fruits Crus",
+            "Présence de Charcuteries / Préparations pâtissières",
+            "Présence de Viandes / Volailles / Poissons / Œufs",
+            "Présence de Garnitures Frites / Produits reconstitués",
+            "Présence de Féculents / Légumes secs",
+            "Présence de Dessert / Pâtisseries",
+            "Présence de Légumes verts / Fruits cuits"
+        ]
+    },
+    {
+        "Lundi": [
+            "Présence de Féculents / Légumes secs",
+            "Présence de Crudités / Fruits Crus",
+            "Présence de Fromages / Laitages",
+            "Présence de Charcuteries / Préparations pâtissières",
+            "Présence de Viandes / Volailles / Poissons / Œufs",
+            "Présence de Dessert / Pâtisseries",
+            "Présence de Légumes verts / Fruits cuits"
+        ],
+        "Mardi": [
+            "Présence de Fromages / Laitages",
+            "Présence de Crudités / Fruits Crus",
+            "Présence de Charcuteries / Préparations pâtissières",
+            "Présence de Garnitures Frites / Produits reconstitués",
+            "Présence de Viandes / Volailles / Poissons / Œufs",
+            "Présence de Dessert / Pâtisseries",
+            "Présence de Légumes verts / Fruits cuits"
+        ],
+        "Mercredi": [
+            "Présence de Fromages / Laitages",
+            "Présence de Viandes / Volailles / Poissons / Œufs",
+            "Présence de Charcuteries / Préparations pâtissières",
+            "Présence de Féculents / Légumes secs",
+            "Présence de Garnitures Frites / Produits reconstitués",
+            "Présence de Dessert / Pâtisseries",
+            "Présence de Légumes verts / Fruits cuits"
+        ],
+        "Jeudi": [
+            "Présence de Viandes / Volailles / Poissons / Œufs",
+            "Présence de Charcuteries / Préparations pâtissières",
+            "Présence de Féculents / Légumes secs",
+            "Présence de Crudités / Fruits Crus",
+            "Présence de Fromages / Laitages",
+            "Présence de Dessert / Pâtisseries",
+            "Présence de Légumes verts / Fruits cuits"
+        ],
+        "Vendredi": [
+            "Présence de Charcuteries / Préparations pâtissières",
+            "Présence de Crudités / Fruits Crus",
+            "Présence de Féculents / Légumes secs",
+            "Présence de Fromages / Laitages",
+            "Présence de Garnitures Frites / Produits reconstitués",
+            "Présence de Dessert / Pâtisseries",
+            "Présence de Légumes verts / Fruits cuits"
+        ]
+    },
+    {
+        "Lundi": [
+            "Présence de Garnitures Frites / Produits reconstitués",
+            "Présence de Crudités / Fruits Crus",
+            "Présence de Fromages / Laitages",
+            "Présence de Charcuteries / Préparations pâtissières",
+            "Présence de Viandes / Volailles / Poissons / Œufs",
+            "Présence de Dessert / Pâtisseries",
+            "Présence de Légumes verts / Fruits cuits"
+        ],
+        "Mardi": [
+            "Présence de Fromages / Laitages",
+            "Présence de Garnitures Frites / Produits reconstitués",
+            "Présence de Crudités / Fruits Crus",
+            "Présence de Féculents / Légumes secs",
+            "Présence de Viandes / Volailles / Poissons / Œufs",
+            "Présence de Dessert / Pâtisseries",
+            "Présence de Légumes verts / Fruits cuits"
+        ],
+        "Mercredi": [
+            "Présence de Crudités / Fruits Crus",
+            "Présence de Fromages / Laitages",
+            "Présence de Garnitures Frites / Produits reconstitués",
+            "Présence de Viandes / Volailles / Poissons / Œufs",
+            "Présence de Féculents / Légumes secs",
+            "Présence de Dessert / Pâtisseries",
+            "Présence de Légumes verts / Fruits cuits"
+        ],
+        "Jeudi": [
+            "Présence de Fromages / Laitages",
+            "Présence de Féculents / Légumes secs",
+            "Présence de Viandes / Volailles / Poissons / Œufs",
+            "Présence de Crudités / Fruits Crus",
+            "Présence de Garnitures Frites / Produits reconstitués",
+            "Présence de Dessert / Pâtisseries",
+            "Présence de Légumes verts / Fruits cuits"
+        ],
+        "Vendredi": [
+            "Présence de Garnitures Frites / Produits reconstitués",
+            "Présence de Viandes / Volailles / Poissons / Œufs",
+            "Présence de Féculents / Légumes secs",
+            "Présence de Crudités / Fruits Crus",
+            "Présence de Fromages / Laitages",
+            "Présence de Dessert / Pâtisseries",
+            "Présence de Légumes verts / Fruits cuits"
+        ]
+    },
+    {
+        "Lundi": [
+            "Présence de Viandes / Volailles / Poissons / Œufs",
+            "Présence de Charcuteries / Préparations pâtissières",
+            "Présence de Fromages / Laitages",
+            "Présence de Féculents / Légumes secs",
+            "Présence de Garnitures Frites / Produits reconstitués",
+            "Présence de Dessert / Pâtisseries",
+            "Présence de Légumes verts / Fruits cuits"
+        ],
+        "Mardi": [
+            "Présence de Crudités / Fruits Crus",
+            "Présence de Féculents / Légumes secs",
+            "Présence de Charcuteries / Préparations pâtissières",
+            "Présence de Fromages / Laitages",
+            "Présence de Viandes / Volailles / Poissons / Œufs",
+            "Présence de Dessert / Pâtisseries",
+            "Présence de Légumes verts / Fruits cuits"
+        ],
+        "Mercredi": [
+            "Présence de Fromages / Laitages",
+            "Présence de Crudités / Fruits Crus",
+            "Présence de Viandes / Volailles / Poissons / Œufs",
+            "Présence de Charcuteries / Préparations pâtissières",
+            "Présence de Féculents / Légumes secs",
+            "Présence de Dessert / Pâtisseries",
+            "Présence de Légumes verts / Fruits cuits"
+        ],
+        "Jeudi": [
+            "Présence de Crudités / Fruits Crus",
+            "Présence de Viandes / Volailles / Poissons / Œufs",
+            "Présence de Fromages / Laitages",
+            "Présence de Féculents / Légumes secs",
+            "Présence de Garnitures Frites / Produits reconstitués",
+            "Présence de Dessert / Pâtisseries",
+            "Présence de Légumes verts / Fruits cuits"
+        ],
+        "Vendredi": [
+            "Présence de Viandes / Volailles / Poissons / Œufs",
+            "Présence de Féculents / Légumes secs",
+            "Présence de Garnitures Frites / Produits reconstitués",
+            "Présence de Crudités / Fruits Crus",
+            "Présence de Charcuteries / Préparations pâtissières",
+            "Présence de Dessert / Pâtisseries",
+            "Présence de Légumes verts / Fruits cuits"
+        ]
+    },
+    {
+        "Lundi": [
+            "Présence de Crudités / Fruits Crus",
+            "Présence de Garnitures Frites / Produits reconstitués",
+            "Présence de Viandes / Volailles / Poissons / Œufs",
+            "Présence de Fromages / Laitages",
+            "Présence de Féculents / Légumes secs",
+            "Présence de Dessert / Pâtisseries",
+            "Présence de Légumes verts / Fruits cuits"
+        ],
+        "Mardi": [
+            "Présence de Féculents / Légumes secs",
+            "Présence de Fromages / Laitages",
+            "Présence de Charcuteries / Préparations pâtissières",
+            "Présence de Crudités / Fruits Crus",
+            "Présence de Viandes / Volailles / Poissons / Œufs",
+            "Présence de Dessert / Pâtisseries",
+            "Présence de Légumes verts / Fruits cuits"
+        ],
+        "Mercredi": [
+            "Présence de Féculents / Légumes secs",
+            "Présence de Garnitures Frites / Produits reconstitués",
+            "Présence de Crudités / Fruits Crus",
+            "Présence de Viandes / Volailles / Poissons / Œufs",
+            "Présence de Charcuteries / Préparations pâtissières",
+            "Présence de Dessert / Pâtisseries",
+            "Présence de Légumes verts / Fruits cuits"
+        ],
+        "Jeudi": [
+            "Présence de Charcuteries / Préparations pâtissières",
+            "Présence de Garnitures Frites / Produits reconstitués",
+            "Présence de Fromages / Laitages",
+            "Présence de Féculents / Légumes secs",
+            "Présence de Crudités / Fruits Crus",
+            "Présence de Dessert / Pâtisseries",
+            "Présence de Légumes verts / Fruits cuits"
+        ],
+        "Vendredi": [
+            "Présence de Crudités / Fruits Crus",
+            "Présence de Féculents / Légumes secs",
+            "Présence de Garnitures Frites / Produits reconstitués",
+            "Présence de Charcuteries / Préparations pâtissières",
+            "Présence de Viandes / Volailles / Poissons / Œufs",
+            "Présence de Dessert / Pâtisseries",
+            "Présence de Légumes verts / Fruits cuits"
+        ]
+    },
+    {
+        "Lundi": [
+            "Présence de Fromages / Laitages",
+            "Présence de Garnitures Frites / Produits reconstitués",
+            "Présence de Féculents / Légumes secs",
+            "Présence de Viandes / Volailles / Poissons / Œufs",
+            "Présence de Crudités / Fruits Crus",
+            "Présence de Dessert / Pâtisseries",
+            "Présence de Légumes verts / Fruits cuits"
+        ],
+        "Mardi": [
+            "Présence de Garnitures Frites / Produits reconstitués",
+            "Présence de Féculents / Légumes secs",
+            "Présence de Fromages / Laitages",
+            "Présence de Crudités / Fruits Crus",
+            "Présence de Viandes / Volailles / Poissons / Œufs",
+            "Présence de Dessert / Pâtisseries",
+            "Présence de Légumes verts / Fruits cuits"
+        ],
+        "Mercredi": [
+            "Présence de Crudités / Fruits Crus",
+            "Présence de Garnitures Frites / Produits reconstitués",
+            "Présence de Fromages / Laitages",
+            "Présence de Viandes / Volailles / Poissons / Œufs",
+            "Présence de Charcuteries / Préparations pâtissières",
+            "Présence de Dessert / Pâtisseries",
+            "Présence de Légumes verts / Fruits cuits"
+        ],
+        "Jeudi": [
+            "Présence de Viandes / Volailles / Poissons / Œufs",
+            "Présence de Crudités / Fruits Crus",
+            "Présence de Charcuteries / Préparations pâtissières",
+            "Présence de Féculents / Légumes secs",
+            "Présence de Garnitures Frites / Produits reconstitués",
+            "Présence de Dessert / Pâtisseries",
+            "Présence de Légumes verts / Fruits cuits"
+        ],
+        "Vendredi": [
+            "Présence de Fromages / Laitages",
+            "Présence de Charcuteries / Préparations pâtissières",
+            "Présence de Garnitures Frites / Produits reconstitués",
+            "Présence de Féculents / Légumes secs",
+            "Présence de Viandes / Volailles / Poissons / Œufs",
+            "Présence de Dessert / Pâtisseries",
+            "Présence de Légumes verts / Fruits cuits"
+        ]
+    },
+    {
+        "Lundi": [
+            "Présence de Fromages / Laitages",
+            "Présence de Féculents / Légumes secs",
+            "Présence de Crudités / Fruits Crus",
+            "Présence de Viandes / Volailles / Poissons / Œufs",
+            "Présence de Charcuteries / Préparations pâtissières",
+            "Présence de Dessert / Pâtisseries",
+            "Présence de Légumes verts / Fruits cuits"
+        ],
+        "Mardi": [
+            "Présence de Viandes / Volailles / Poissons / Œufs",
+            "Présence de Crudités / Fruits Crus",
+            "Présence de Charcuteries / Préparations pâtissières",
+            "Présence de Féculents / Légumes secs",
+            "Présence de Fromages / Laitages",
+            "Présence de Dessert / Pâtisseries",
+            "Présence de Légumes verts / Fruits cuits"
+        ],
+        "Mercredi": [
+            "Présence de Garnitures Frites / Produits reconstitués",
+            "Présence de Féculents / Légumes secs",
+            "Présence de Fromages / Laitages",
+            "Présence de Crudités / Fruits Crus",
+            "Présence de Charcuteries / Préparations pâtissières",
+            "Présence de Dessert / Pâtisseries",
+            "Présence de Légumes verts / Fruits cuits"
+        ],
+        "Jeudi": [
+            "Présence de Fromages / Laitages",
+            "Présence de Garnitures Frites / Produits reconstitués",
+            "Présence de Charcuteries / Préparations pâtissières",
+            "Présence de Crudités / Fruits Crus",
+            "Présence de Viandes / Volailles / Poissons / Œufs",
+            "Présence de Dessert / Pâtisseries",
+            "Présence de Légumes verts / Fruits cuits"
+        ],
+        "Vendredi": [
+            "Présence de Garnitures Frites / Produits reconstitués",
+            "Présence de Crudités / Fruits Crus",
+            "Présence de Viandes / Volailles / Poissons / Œufs",
+            "Présence de Fromages / Laitages",
+            "Présence de Féculents / Légumes secs",
+            "Présence de Dessert / Pâtisseries",
+            "Présence de Légumes verts / Fruits cuits"
+        ]
+    },
+    {
+        "Lundi": [
+            "Présence de Crudités / Fruits Crus",
+            "Présence de Charcuteries / Préparations pâtissières",
+            "Présence de Garnitures Frites / Produits reconstitués",
+            "Présence de Viandes / Volailles / Poissons / Œufs",
+            "Présence de Fromages / Laitages",
+            "Présence de Dessert / Pâtisseries",
+            "Présence de Légumes verts / Fruits cuits"
+        ],
+        "Mardi": [
+            "Présence de Garnitures Frites / Produits reconstitués",
+            "Présence de Crudités / Fruits Crus",
+            "Présence de Viandes / Volailles / Poissons / Œufs",
+            "Présence de Fromages / Laitages",
+            "Présence de Charcuteries / Préparations pâtissières",
+            "Présence de Dessert / Pâtisseries",
+            "Présence de Légumes verts / Fruits cuits"
+        ],
+        "Mercredi": [
+            "Présence de Féculents / Légumes secs",
+            "Présence de Garnitures Frites / Produits reconstitués",
+            "Présence de Crudités / Fruits Crus",
+            "Présence de Viandes / Volailles / Poissons / Œufs",
+            "Présence de Fromages / Laitages",
+            "Présence de Dessert / Pâtisseries",
+            "Présence de Légumes verts / Fruits cuits"
+        ],
+        "Jeudi": [
+            "Présence de Crudités / Fruits Crus",
+            "Présence de Viandes / Volailles / Poissons / Œufs",
+            "Présence de Garnitures Frites / Produits reconstitués",
+            "Présence de Féculents / Légumes secs",
+            "Présence de Fromages / Laitages",
+            "Présence de Dessert / Pâtisseries",
+            "Présence de Légumes verts / Fruits cuits"
+        ],
+        "Vendredi": [
+            "Présence de Fromages / Laitages",
+            "Présence de Crudités / Fruits Crus",
+            "Présence de Viandes / Volailles / Poissons / Œufs",
+            "Présence de Garnitures Frites / Produits reconstitués",
+            "Présence de Charcuteries / Préparations pâtissières",
+            "Présence de Dessert / Pâtisseries",
+            "Présence de Légumes verts / Fruits cuits"
+        ]
+    },
+    {
+        "Lundi": [
+            "Présence de Viandes / Volailles / Poissons / Œufs",
+            "Présence de Charcuteries / Préparations pâtissières",
+            "Présence de Garnitures Frites / Produits reconstitués",
+            "Présence de Féculents / Légumes secs",
+            "Présence de Crudités / Fruits Crus",
+            "Présence de Dessert / Pâtisseries",
+            "Présence de Légumes verts / Fruits cuits"
+        ],
+        "Mardi": [
+            "Présence de Garnitures Frites / Produits reconstitués",
+            "Présence de Féculents / Légumes secs",
+            "Présence de Viandes / Volailles / Poissons / Œufs",
+            "Présence de Crudités / Fruits Crus",
+            "Présence de Charcuteries / Préparations pâtissières",
+            "Présence de Dessert / Pâtisseries",
+            "Présence de Légumes verts / Fruits cuits"
+        ],
+        "Mercredi": [
+            "Présence de Charcuteries / Préparations pâtissières",
+            "Présence de Garnitures Frites / Produits reconstitués",
+            "Présence de Féculents / Légumes secs",
+            "Présence de Crudités / Fruits Crus",
+            "Présence de Fromages / Laitages",
+            "Présence de Dessert / Pâtisseries",
+            "Présence de Légumes verts / Fruits cuits"
+        ],
+        "Jeudi": [
+            "Présence de Garnitures Frites / Produits reconstitués",
+            "Présence de Féculents / Légumes secs",
+            "Présence de Crudités / Fruits Crus",
+            "Présence de Charcuteries / Préparations pâtissières",
+            "Présence de Fromages / Laitages",
+            "Présence de Dessert / Pâtisseries",
+            "Présence de Légumes verts / Fruits cuits"
+        ],
+        "Vendredi": [
+            "Présence de Charcuteries / Préparations pâtissières",
+            "Présence de Viandes / Volailles / Poissons / Œufs",
+            "Présence de Garnitures Frites / Produits reconstitués",
+            "Présence de Fromages / Laitages",
+            "Présence de Féculents / Légumes secs",
+            "Présence de Dessert / Pâtisseries",
+            "Présence de Légumes verts / Fruits cuits"
+        ]
+    },
+    {
+        "Lundi": [
+            "Présence de Crudités / Fruits Crus",
+            "Présence de Viandes / Volailles / Poissons / Œufs",
+            "Présence de Féculents / Légumes secs",
+            "Présence de Garnitures Frites / Produits reconstitués",
+            "Présence de Fromages / Laitages",
+            "Présence de Dessert / Pâtisseries",
+            "Présence de Légumes verts / Fruits cuits"
+        ],
+        "Mardi": [
+            "Présence de Charcuteries / Préparations pâtissières",
+            "Présence de Crudités / Fruits Crus",
+            "Présence de Féculents / Légumes secs",
+            "Présence de Viandes / Volailles / Poissons / Œufs",
+            "Présence de Fromages / Laitages",
+            "Présence de Dessert / Pâtisseries",
+            "Présence de Légumes verts / Fruits cuits"
+        ],
+        "Mercredi": [
+            "Présence de Fromages / Laitages",
+            "Présence de Viandes / Volailles / Poissons / Œufs",
+            "Présence de Charcuteries / Préparations pâtissières",
+            "Présence de Crudités / Fruits Crus",
+            "Présence de Garnitures Frites / Produits reconstitués",
+            "Présence de Dessert / Pâtisseries",
+            "Présence de Légumes verts / Fruits cuits"
+        ],
+        "Jeudi": [
+            "Présence de Féculents / Légumes secs",
+            "Présence de Fromages / Laitages",
+            "Présence de Garnitures Frites / Produits reconstitués",
+            "Présence de Charcuteries / Préparations pâtissières",
+            "Présence de Viandes / Volailles / Poissons / Œufs",
+            "Présence de Dessert / Pâtisseries",
+            "Présence de Légumes verts / Fruits cuits"
+        ],
+        "Vendredi": [
+            "Présence de Crudités / Fruits Crus",
+            "Présence de Garnitures Frites / Produits reconstitués",
+            "Présence de Fromages / Laitages",
+            "Présence de Féculents / Légumes secs",
+            "Présence de Charcuteries / Préparations pâtissières",
+            "Présence de Dessert / Pâtisseries",
+            "Présence de Légumes verts / Fruits cuits"
+        ]
+    },
+    {
+        "Lundi": [
+            "Présence de Viandes / Volailles / Poissons / Œufs",
+            "Présence de Garnitures Frites / Produits reconstitués",
+            "Présence de Fromages / Laitages",
+            "Présence de Crudités / Fruits Crus",
+            "Présence de Féculents / Légumes secs",
+            "Présence de Dessert / Pâtisseries",
+            "Présence de Légumes verts / Fruits cuits"
+        ],
+        "Mardi": [
+            "Présence de Féculents / Légumes secs",
+            "Présence de Garnitures Frites / Produits reconstitués",
+            "Présence de Fromages / Laitages",
+            "Présence de Viandes / Volailles / Poissons / Œufs",
+            "Présence de Charcuteries / Préparations pâtissières",
+            "Présence de Dessert / Pâtisseries",
+            "Présence de Légumes verts / Fruits cuits"
+        ],
+        "Mercredi": [
+            "Présence de Fromages / Laitages",
+            "Présence de Charcuteries / Préparations pâtissières",
+            "Présence de Crudités / Fruits Crus",
+            "Présence de Féculents / Légumes secs",
+            "Présence de Viandes / Volailles / Poissons / Œufs",
+            "Présence de Dessert / Pâtisseries",
+            "Présence de Légumes verts / Fruits cuits"
+        ],
+        "Jeudi": [
+            "Présence de Crudités / Fruits Crus",
+            "Présence de Charcuteries / Préparations pâtissières",
+            "Présence de Garnitures Frites / Produits reconstitués",
+            "Présence de Viandes / Volailles / Poissons / Œufs",
+            "Présence de Fromages / Laitages",
+            "Présence de Dessert / Pâtisseries",
+            "Présence de Légumes verts / Fruits cuits"
+        ],
+        "Vendredi": [
+            "Présence de Garnitures Frites / Produits reconstitués",
+            "Présence de Viandes / Volailles / Poissons / Œufs",
+            "Présence de Féculents / Légumes secs",
+            "Présence de Fromages / Laitages",
+            "Présence de Crudités / Fruits Crus",
+            "Présence de Dessert / Pâtisseries",
+            "Présence de Légumes verts / Fruits cuits"
+        ]
+    },
+    {
+        "Lundi": [
+            "Présence de Crudités / Fruits Crus",
+            "Présence de Garnitures Frites / Produits reconstitués",
+            "Présence de Fromages / Laitages",
+            "Présence de Viandes / Volailles / Poissons / Œufs",
+            "Présence de Charcuteries / Préparations pâtissières",
+            "Présence de Dessert / Pâtisseries",
+            "Présence de Légumes verts / Fruits cuits"
+        ],
+        "Mardi": [
+            "Présence de Crudités / Fruits Crus",
+            "Présence de Fromages / Laitages",
+            "Présence de Charcuteries / Préparations pâtissières",
+            "Présence de Garnitures Frites / Produits reconstitués",
+            "Présence de Viandes / Volailles / Poissons / Œufs",
+            "Présence de Dessert / Pâtisseries",
+            "Présence de Légumes verts / Fruits cuits"
+        ],
+        "Mercredi": [
+            "Présence de Viandes / Volailles / Poissons / Œufs",
+            "Présence de Garnitures Frites / Produits reconstitués",
+            "Présence de Féculents / Légumes secs",
+            "Présence de Fromages / Laitages",
+            "Présence de Crudités / Fruits Crus",
+            "Présence de Dessert / Pâtisseries",
+            "Présence de Légumes verts / Fruits cuits"
+        ],
+        "Jeudi": [
+            "Présence de Viandes / Volailles / Poissons / Œufs",
+            "Présence de Fromages / Laitages",
+            "Présence de Charcuteries / Préparations pâtissières",
+            "Présence de Garnitures Frites / Produits reconstitués",
+            "Présence de Crudités / Fruits Crus",
+            "Présence de Dessert / Pâtisseries",
+            "Présence de Légumes verts / Fruits cuits"
+        ],
+        "Vendredi": [
+            "Présence de Viandes / Volailles / Poissons / Œufs",
+            "Présence de Crudités / Fruits Crus",
+            "Présence de Fromages / Laitages",
+            "Présence de Charcuteries / Préparations pâtissières",
+            "Présence de Féculents / Légumes secs",
+            "Présence de Dessert / Pâtisseries",
+            "Présence de Légumes verts / Fruits cuits"
+        ]
+    },
+    {
+        "Lundi": [
+            "Présence de Fromages / Laitages",
+            "Présence de Garnitures Frites / Produits reconstitués",
+            "Présence de Féculents / Légumes secs",
+            "Présence de Viandes / Volailles / Poissons / Œufs",
+            "Présence de Charcuteries / Préparations pâtissières",
+            "Présence de Dessert / Pâtisseries",
+            "Présence de Légumes verts / Fruits cuits"
+        ],
+        "Mardi": [
+            "Présence de Fromages / Laitages",
+            "Présence de Féculents / Légumes secs",
+            "Présence de Garnitures Frites / Produits reconstitués",
+            "Présence de Charcuteries / Préparations pâtissières",
+            "Présence de Viandes / Volailles / Poissons / Œufs",
+            "Présence de Dessert / Pâtisseries",
+            "Présence de Légumes verts / Fruits cuits"
+        ],
+        "Mercredi": [
+            "Présence de Féculents / Légumes secs",
+            "Présence de Crudités / Fruits Crus",
+            "Présence de Charcuteries / Préparations pâtissières",
+            "Présence de Viandes / Volailles / Poissons / Œufs",
+            "Présence de Garnitures Frites / Produits reconstitués",
+            "Présence de Dessert / Pâtisseries",
+            "Présence de Légumes verts / Fruits cuits"
+        ],
+        "Jeudi": [
+            "Présence de Garnitures Frites / Produits reconstitués",
+            "Présence de Viandes / Volailles / Poissons / Œufs",
+            "Présence de Féculents / Légumes secs",
+            "Présence de Fromages / Laitages",
+            "Présence de Crudités / Fruits Crus",
+            "Présence de Dessert / Pâtisseries",
+            "Présence de Légumes verts / Fruits cuits"
+        ],
+        "Vendredi": [
+            "Présence de Féculents / Légumes secs",
+            "Présence de Garnitures Frites / Produits reconstitués",
+            "Présence de Charcuteries / Préparations pâtissières",
+            "Présence de Crudités / Fruits Crus",
+            "Présence de Fromages / Laitages",
+            "Présence de Dessert / Pâtisseries",
+            "Présence de Légumes verts / Fruits cuits"
+        ]
+    },
+    {
+        "Lundi": [
+            "Présence de Charcuteries / Préparations pâtissières",
+            "Présence de Féculents / Légumes secs",
+            "Présence de Garnitures Frites / Produits reconstitués",
+            "Présence de Crudités / Fruits Crus",
+            "Présence de Viandes / Volailles / Poissons / Œufs",
+            "Présence de Dessert / Pâtisseries",
+            "Présence de Légumes verts / Fruits cuits"
+        ],
+        "Mardi": [
+            "Présence de Viandes / Volailles / Poissons / Œufs",
+            "Présence de Garnitures Frites / Produits reconstitués",
+            "Présence de Charcuteries / Préparations pâtissières",
+            "Présence de Crudités / Fruits Crus",
+            "Présence de Fromages / Laitages",
+            "Présence de Dessert / Pâtisseries",
+            "Présence de Légumes verts / Fruits cuits"
+        ],
+        "Mercredi": [
+            "Présence de Charcuteries / Préparations pâtissières",
+            "Présence de Féculents / Légumes secs",
+            "Présence de Viandes / Volailles / Poissons / Œufs",
+            "Présence de Garnitures Frites / Produits reconstitués",
+            "Présence de Crudités / Fruits Crus",
+            "Présence de Dessert / Pâtisseries",
+            "Présence de Légumes verts / Fruits cuits"
+        ],
+        "Jeudi": [
+            "Présence de Fromages / Laitages",
+            "Présence de Crudités / Fruits Crus",
+            "Présence de Charcuteries / Préparations pâtissières",
+            "Présence de Viandes / Volailles / Poissons / Œufs",
+            "Présence de Garnitures Frites / Produits reconstitués",
+            "Présence de Dessert / Pâtisseries",
+            "Présence de Légumes verts / Fruits cuits"
+        ],
+        "Vendredi": [
+            "Présence de Crudités / Fruits Crus",
+            "Présence de Féculents / Légumes secs",
+            "Présence de Fromages / Laitages",
+            "Présence de Garnitures Frites / Produits reconstitués",
+            "Présence de Charcuteries / Préparations pâtissières",
+            "Présence de Dessert / Pâtisseries",
+            "Présence de Légumes verts / Fruits cuits"
+        ]
+    },
+    {
+        "Lundi": [
+            "Présence de Charcuteries / Préparations pâtissières",
+            "Présence de Fromages / Laitages",
+            "Présence de Viandes / Volailles / Poissons / Œufs",
+            "Présence de Féculents / Légumes secs",
+            "Présence de Garnitures Frites / Produits reconstitués",
+            "Présence de Dessert / Pâtisseries",
+            "Présence de Légumes verts / Fruits cuits"
+        ],
+        "Mardi": [
+            "Présence de Féculents / Légumes secs",
+            "Présence de Viandes / Volailles / Poissons / Œufs",
+            "Présence de Garnitures Frites / Produits reconstitués",
+            "Présence de Crudités / Fruits Crus",
+            "Présence de Charcuteries / Préparations pâtissières",
+            "Présence de Dessert / Pâtisseries",
+            "Présence de Légumes verts / Fruits cuits"
+        ],
+        "Mercredi": [
+            "Présence de Féculents / Légumes secs",
+            "Présence de Garnitures Frites / Produits reconstitués",
+            "Présence de Fromages / Laitages",
+            "Présence de Crudités / Fruits Crus",
+            "Présence de Charcuteries / Préparations pâtissières",
+            "Présence de Dessert / Pâtisseries",
+            "Présence de Légumes verts / Fruits cuits"
+        ],
+        "Jeudi": [
+            "Présence de Garnitures Frites / Produits reconstitués",
+            "Présence de Féculents / Légumes secs",
+            "Présence de Fromages / Laitages",
+            "Présence de Charcuteries / Préparations pâtissières",
+            "Présence de Crudités / Fruits Crus",
+            "Présence de Dessert / Pâtisseries",
+            "Présence de Légumes verts / Fruits cuits"
+        ],
+        "Vendredi": [
+            "Présence de Crudités / Fruits Crus",
+            "Présence de Viandes / Volailles / Poissons / Œufs",
+            "Présence de Charcuteries / Préparations pâtissières",
+            "Présence de Fromages / Laitages",
+            "Présence de Féculents / Légumes secs",
+            "Présence de Dessert / Pâtisseries",
+            "Présence de Légumes verts / Fruits cuits"
+        ]
+    },
+    {
+        "Lundi": [
+            "Présence de Crudités / Fruits Crus",
+            "Présence de Charcuteries / Préparations pâtissières",
+            "Présence de Féculents / Légumes secs",
+            "Présence de Fromages / Laitages",
+            "Présence de Garnitures Frites / Produits reconstitués",
+            "Présence de Dessert / Pâtisseries",
+            "Présence de Légumes verts / Fruits cuits"
+        ],
+        "Mardi": [
+            "Présence de Garnitures Frites / Produits reconstitués",
+            "Présence de Viandes / Volailles / Poissons / Œufs",
+            "Présence de Charcuteries / Préparations pâtissières",
+            "Présence de Féculents / Légumes secs",
+            "Présence de Crudités / Fruits Crus",
+            "Présence de Dessert / Pâtisseries",
+            "Présence de Légumes verts / Fruits cuits"
+        ],
+        "Mercredi": [
+            "Présence de Fromages / Laitages",
+            "Présence de Charcuteries / Préparations pâtissières",
+            "Présence de Crudités / Fruits Crus",
+            "Présence de Garnitures Frites / Produits reconstitués",
+            "Présence de Viandes / Volailles / Poissons / Œufs",
+            "Présence de Dessert / Pâtisseries",
+            "Présence de Légumes verts / Fruits cuits"
+        ],
+        "Jeudi": [
+            "Présence de Crudités / Fruits Crus",
+            "Présence de Garnitures Frites / Produits reconstitués",
+            "Présence de Charcuteries / Préparations pâtissières",
+            "Présence de Féculents / Légumes secs",
+            "Présence de Viandes / Volailles / Poissons / Œufs",
+            "Présence de Dessert / Pâtisseries",
+            "Présence de Légumes verts / Fruits cuits"
+        ],
+        "Vendredi": [
+            "Présence de Féculents / Légumes secs",
+            "Présence de Garnitures Frites / Produits reconstitués",
+            "Présence de Charcuteries / Préparations pâtissières",
+            "Présence de Viandes / Volailles / Poissons / Œufs",
+            "Présence de Fromages / Laitages",
+            "Présence de Dessert / Pâtisseries",
+            "Présence de Légumes verts / Fruits cuits"
+        ]
+    },
+    {
+        "Lundi": [
+            "Présence de Charcuteries / Préparations pâtissières",
+            "Présence de Féculents / Légumes secs",
+            "Présence de Viandes / Volailles / Poissons / Œufs",
+            "Présence de Garnitures Frites / Produits reconstitués",
+            "Présence de Fromages / Laitages",
+            "Présence de Dessert / Pâtisseries",
+            "Présence de Légumes verts / Fruits cuits"
+        ],
+        "Mardi": [
+            "Présence de Charcuteries / Préparations pâtissières",
+            "Présence de Garnitures Frites / Produits reconstitués",
+            "Présence de Crudités / Fruits Crus",
+            "Présence de Féculents / Légumes secs",
+            "Présence de Fromages / Laitages",
+            "Présence de Dessert / Pâtisseries",
+            "Présence de Légumes verts / Fruits cuits"
+        ],
+        "Mercredi": [
+            "Présence de Viandes / Volailles / Poissons / Œufs",
+            "Présence de Fromages / Laitages",
+            "Présence de Féculents / Légumes secs",
+            "Présence de Crudités / Fruits Crus",
+            "Présence de Garnitures Frites / Produits reconstitués",
+            "Présence de Dessert / Pâtisseries",
+            "Présence de Légumes verts / Fruits cuits"
+        ],
+        "Jeudi": [
+            "Présence de Viandes / Volailles / Poissons / Œufs",
+            "Présence de Crudités / Fruits Crus",
+            "Présence de Garnitures Frites / Produits reconstitués",
+            "Présence de Fromages / Laitages",
+            "Présence de Féculents / Légumes secs",
+            "Présence de Dessert / Pâtisseries",
+            "Présence de Légumes verts / Fruits cuits"
+        ],
+        "Vendredi": [
+            "Présence de Charcuteries / Préparations pâtissières",
+            "Présence de Féculents / Légumes secs",
+            "Présence de Viandes / Volailles / Poissons / Œufs",
+            "Présence de Crudités / Fruits Crus",
+            "Présence de Fromages / Laitages",
+            "Présence de Dessert / Pâtisseries",
+            "Présence de Légumes verts / Fruits cuits"
+        ]
+    },
+    {
+        "Lundi": [
+            "Présence de Garnitures Frites / Produits reconstitués",
+            "Présence de Féculents / Légumes secs",
+            "Présence de Fromages / Laitages",
+            "Présence de Viandes / Volailles / Poissons / Œufs",
+            "Présence de Crudités / Fruits Crus",
+            "Présence de Dessert / Pâtisseries",
+            "Présence de Légumes verts / Fruits cuits"
+        ],
+        "Mardi": [
+            "Présence de Garnitures Frites / Produits reconstitués",
+            "Présence de Fromages / Laitages",
+            "Présence de Charcuteries / Préparations pâtissières",
+            "Présence de Féculents / Légumes secs",
+            "Présence de Viandes / Volailles / Poissons / Œufs",
+            "Présence de Dessert / Pâtisseries",
+            "Présence de Légumes verts / Fruits cuits"
+        ],
+        "Mercredi": [
+            "Présence de Féculents / Légumes secs",
+            "Présence de Fromages / Laitages",
+            "Présence de Viandes / Volailles / Poissons / Œufs",
+            "Présence de Garnitures Frites / Produits reconstitués",
+            "Présence de Crudités / Fruits Crus",
+            "Présence de Dessert / Pâtisseries",
+            "Présence de Légumes verts / Fruits cuits"
+        ],
+        "Jeudi": [
+            "Présence de Féculents / Légumes secs",
+            "Présence de Crudités / Fruits Crus",
+            "Présence de Viandes / Volailles / Poissons / Œufs",
+            "Présence de Fromages / Laitages",
+            "Présence de Charcuteries / Préparations pâtissières",
+            "Présence de Dessert / Pâtisseries",
+            "Présence de Légumes verts / Fruits cuits"
+        ],
+        "Vendredi": [
+            "Présence de Crudités / Fruits Crus",
+            "Présence de Garnitures Frites / Produits reconstitués",
+            "Présence de Fromages / Laitages",
+            "Présence de Féculents / Légumes secs",
+            "Présence de Charcuteries / Préparations pâtissières",
+            "Présence de Dessert / Pâtisseries",
+            "Présence de Légumes verts / Fruits cuits"
+        ]
+    },
+    {
+        "Lundi": [
+            "Présence de Viandes / Volailles / Poissons / Œufs",
+            "Présence de Fromages / Laitages",
+            "Présence de Garnitures Frites / Produits reconstitués",
+            "Présence de Charcuteries / Préparations pâtissières",
+            "Présence de Féculents / Légumes secs",
+            "Présence de Dessert / Pâtisseries",
+            "Présence de Légumes verts / Fruits cuits"
+        ],
+        "Mardi": [
+            "Présence de Fromages / Laitages",
+            "Présence de Garnitures Frites / Produits reconstitués",
+            "Présence de Féculents / Légumes secs",
+            "Présence de Charcuteries / Préparations pâtissières",
+            "Présence de Crudités / Fruits Crus",
+            "Présence de Dessert / Pâtisseries",
+            "Présence de Légumes verts / Fruits cuits"
+        ],
+        "Mercredi": [
+            "Présence de Charcuteries / Préparations pâtissières",
+            "Présence de Fromages / Laitages",
+            "Présence de Féculents / Légumes secs",
+            "Présence de Crudités / Fruits Crus",
+            "Présence de Viandes / Volailles / Poissons / Œufs",
+            "Présence de Dessert / Pâtisseries",
+            "Présence de Légumes verts / Fruits cuits"
+        ],
+        "Jeudi": [
+            "Présence de Garnitures Frites / Produits reconstitués",
+            "Présence de Viandes / Volailles / Poissons / Œufs",
+            "Présence de Fromages / Laitages",
+            "Présence de Féculents / Légumes secs",
+            "Présence de Crudités / Fruits Crus",
+            "Présence de Dessert / Pâtisseries",
+            "Présence de Légumes verts / Fruits cuits"
+        ],
+        "Vendredi": [
+            "Présence de Fromages / Laitages",
+            "Présence de Garnitures Frites / Produits reconstitués",
+            "Présence de Viandes / Volailles / Poissons / Œufs",
+            "Présence de Charcuteries / Préparations pâtissières",
+            "Présence de Féculents / Légumes secs",
+            "Présence de Dessert / Pâtisseries",
+            "Présence de Légumes verts / Fruits cuits"
+        ]
+    },
+    {
+        "Lundi": [
+            "Présence de Garnitures Frites / Produits reconstitués",
+            "Présence de Viandes / Volailles / Poissons / Œufs",
+            "Présence de Féculents / Légumes secs",
+            "Présence de Fromages / Laitages",
+            "Présence de Crudités / Fruits Crus",
+            "Présence de Dessert / Pâtisseries",
+            "Présence de Légumes verts / Fruits cuits"
+        ],
+        "Mardi": [
+            "Présence de Fromages / Laitages",
+            "Présence de Charcuteries / Préparations pâtissières",
+            "Présence de Féculents / Légumes secs",
+            "Présence de Garnitures Frites / Produits reconstitués",
+            "Présence de Viandes / Volailles / Poissons / Œufs",
+            "Présence de Dessert / Pâtisseries",
+            "Présence de Légumes verts / Fruits cuits"
+        ],
+        "Mercredi": [
+            "Présence de Charcuteries / Préparations pâtissières",
+            "Présence de Viandes / Volailles / Poissons / Œufs",
+            "Présence de Garnitures Frites / Produits reconstitués",
+            "Présence de Crudités / Fruits Crus",
+            "Présence de Fromages / Laitages",
+            "Présence de Dessert / Pâtisseries",
+            "Présence de Légumes verts / Fruits cuits"
+        ],
+        "Jeudi": [
+            "Présence de Garnitures Frites / Produits reconstitués",
+            "Présence de Fromages / Laitages",
+            "Présence de Féculents / Légumes secs",
+            "Présence de Charcuteries / Préparations pâtissières",
+            "Présence de Viandes / Volailles / Poissons / Œufs",
+            "Présence de Dessert / Pâtisseries",
+            "Présence de Légumes verts / Fruits cuits"
+        ],
+        "Vendredi": [
+            "Présence de Viandes / Volailles / Poissons / Œufs",
+            "Présence de Fromages / Laitages",
+            "Présence de Crudités / Fruits Crus",
+            "Présence de Garnitures Frites / Produits reconstitués",
+            "Présence de Féculents / Légumes secs",
+            "Présence de Dessert / Pâtisseries",
+            "Présence de Légumes verts / Fruits cuits"
+        ]
+    },
+    {
+        "Lundi": [
+            "Présence de Crudités / Fruits Crus",
+            "Présence de Viandes / Volailles / Poissons / Œufs",
+            "Présence de Charcuteries / Préparations pâtissières",
+            "Présence de Fromages / Laitages",
+            "Présence de Féculents / Légumes secs",
+            "Présence de Dessert / Pâtisseries",
+            "Présence de Légumes verts / Fruits cuits"
+        ],
+        "Mardi": [
+            "Présence de Fromages / Laitages",
+            "Présence de Garnitures Frites / Produits reconstitués",
+            "Présence de Crudités / Fruits Crus",
+            "Présence de Féculents / Légumes secs",
+            "Présence de Viandes / Volailles / Poissons / Œufs",
+            "Présence de Dessert / Pâtisseries",
+            "Présence de Légumes verts / Fruits cuits"
+        ],
+        "Mercredi": [
+            "Présence de Féculents / Légumes secs",
+            "Présence de Crudités / Fruits Crus",
+            "Présence de Charcuteries / Préparations pâtissières",
+            "Présence de Viandes / Volailles / Poissons / Œufs",
+            "Présence de Garnitures Frites / Produits reconstitués",
+            "Présence de Dessert / Pâtisseries",
+            "Présence de Légumes verts / Fruits cuits"
+        ],
+        "Jeudi": [
+            "Présence de Charcuteries / Préparations pâtissières",
+            "Présence de Viandes / Volailles / Poissons / Œufs",
+            "Présence de Féculents / Légumes secs",
+            "Présence de Fromages / Laitages",
+            "Présence de Crudités / Fruits Crus",
+            "Présence de Dessert / Pâtisseries",
+            "Présence de Légumes verts / Fruits cuits"
+        ],
+        "Vendredi": [
+            "Présence de Charcuteries / Préparations pâtissières",
+            "Présence de Féculents / Légumes secs",
+            "Présence de Fromages / Laitages",
+            "Présence de Viandes / Volailles / Poissons / Œufs",
+            "Présence de Garnitures Frites / Produits reconstitués",
+            "Présence de Dessert / Pâtisseries",
+            "Présence de Légumes verts / Fruits cuits"
+        ]
+    },
+    {
+        "Lundi": [
+            "Présence de Garnitures Frites / Produits reconstitués",
+            "Présence de Féculents / Légumes secs",
+            "Présence de Fromages / Laitages",
+            "Présence de Crudités / Fruits Crus",
+            "Présence de Viandes / Volailles / Poissons / Œufs",
+            "Présence de Dessert / Pâtisseries",
+            "Présence de Légumes verts / Fruits cuits"
+        ],
+        "Mardi": [
+            "Présence de Féculents / Légumes secs",
+            "Présence de Viandes / Volailles / Poissons / Œufs",
+            "Présence de Garnitures Frites / Produits reconstitués",
+            "Présence de Fromages / Laitages",
+            "Présence de Charcuteries / Préparations pâtissières",
+            "Présence de Dessert / Pâtisseries",
+            "Présence de Légumes verts / Fruits cuits"
+        ],
+        "Mercredi": [
+            "Présence de Garnitures Frites / Produits reconstitués",
+            "Présence de Crudités / Fruits Crus",
+            "Présence de Viandes / Volailles / Poissons / Œufs",
+            "Présence de Fromages / Laitages",
+            "Présence de Féculents / Légumes secs",
+            "Présence de Dessert / Pâtisseries",
+            "Présence de Légumes verts / Fruits cuits"
+        ],
+        "Jeudi": [
+            "Présence de Fromages / Laitages",
+            "Présence de Féculents / Légumes secs",
+            "Présence de Crudités / Fruits Crus",
+            "Présence de Garnitures Frites / Produits reconstitués",
+            "Présence de Charcuteries / Préparations pâtissières",
+            "Présence de Dessert / Pâtisseries",
+            "Présence de Légumes verts / Fruits cuits"
+        ],
+        "Vendredi": [
+            "Présence de Viandes / Volailles / Poissons / Œufs",
+            "Présence de Fromages / Laitages",
+            "Présence de Charcuteries / Préparations pâtissières",
+            "Présence de Garnitures Frites / Produits reconstitués",
+            "Présence de Féculents / Légumes secs",
+            "Présence de Dessert / Pâtisseries",
+            "Présence de Légumes verts / Fruits cuits"
+        ]
+    },
+    {
+        "Lundi": [
+            "Présence de Charcuteries / Préparations pâtissières",
+            "Présence de Viandes / Volailles / Poissons / Œufs",
+            "Présence de Crudités / Fruits Crus",
+            "Présence de Féculents / Légumes secs",
+            "Présence de Fromages / Laitages",
+            "Présence de Dessert / Pâtisseries",
+            "Présence de Légumes verts / Fruits cuits"
+        ],
+        "Mardi": [
+            "Présence de Fromages / Laitages",
+            "Présence de Garnitures Frites / Produits reconstitués",
+            "Présence de Charcuteries / Préparations pâtissières",
+            "Présence de Crudités / Fruits Crus",
+            "Présence de Viandes / Volailles / Poissons / Œufs",
+            "Présence de Dessert / Pâtisseries",
+            "Présence de Légumes verts / Fruits cuits"
+        ],
+        "Mercredi": [
+            "Présence de Viandes / Volailles / Poissons / Œufs",
+            "Présence de Garnitures Frites / Produits reconstitués",
+            "Présence de Féculents / Légumes secs",
+            "Présence de Fromages / Laitages",
+            "Présence de Charcuteries / Préparations pâtissières",
+            "Présence de Dessert / Pâtisseries",
+            "Présence de Légumes verts / Fruits cuits"
+        ],
+        "Jeudi": [
+            "Présence de Charcuteries / Préparations pâtissières",
+            "Présence de Garnitures Frites / Produits reconstitués",
+            "Présence de Viandes / Volailles / Poissons / Œufs",
+            "Présence de Fromages / Laitages",
+            "Présence de Crudités / Fruits Crus",
+            "Présence de Dessert / Pâtisseries",
+            "Présence de Légumes verts / Fruits cuits"
+        ],
+        "Vendredi": [
+            "Présence de Fromages / Laitages",
+            "Présence de Crudités / Fruits Crus",
+            "Présence de Féculents / Légumes secs",
+            "Présence de Charcuteries / Préparations pâtissières",
+            "Présence de Garnitures Frites / Produits reconstitués",
+            "Présence de Dessert / Pâtisseries",
+            "Présence de Légumes verts / Fruits cuits"
+        ]
+    },
+    {
+        "Lundi": [
+            "Présence de Garnitures Frites / Produits reconstitués",
+            "Présence de Féculents / Légumes secs",
+            "Présence de Crudités / Fruits Crus",
+            "Présence de Viandes / Volailles / Poissons / Œufs",
+            "Présence de Charcuteries / Préparations pâtissières",
+            "Présence de Dessert / Pâtisseries",
+            "Présence de Légumes verts / Fruits cuits"
+        ],
+        "Mardi": [
+            "Présence de Féculents / Légumes secs",
+            "Présence de Garnitures Frites / Produits reconstitués",
+            "Présence de Crudités / Fruits Crus",
+            "Présence de Charcuteries / Préparations pâtissières",
+            "Présence de Viandes / Volailles / Poissons / Œufs",
+            "Présence de Dessert / Pâtisseries",
+            "Présence de Légumes verts / Fruits cuits"
+        ],
+        "Mercredi": [
+            "Présence de Charcuteries / Préparations pâtissières",
+            "Présence de Viandes / Volailles / Poissons / Œufs",
+            "Présence de Crudités / Fruits Crus",
+            "Présence de Garnitures Frites / Produits reconstitués",
+            "Présence de Fromages / Laitages",
+            "Présence de Dessert / Pâtisseries",
+            "Présence de Légumes verts / Fruits cuits"
+        ],
+        "Jeudi": [
+            "Présence de Charcuteries / Préparations pâtissières",
+            "Présence de Fromages / Laitages",
+            "Présence de Viandes / Volailles / Poissons / Œufs",
+            "Présence de Crudités / Fruits Crus",
+            "Présence de Féculents / Légumes secs",
+            "Présence de Dessert / Pâtisseries",
+            "Présence de Légumes verts / Fruits cuits"
+        ],
+        "Vendredi": [
+            "Présence de Féculents / Légumes secs",
+            "Présence de Garnitures Frites / Produits reconstitués",
+            "Présence de Viandes / Volailles / Poissons / Œufs",
+            "Présence de Crudités / Fruits Crus",
+            "Présence de Fromages / Laitages",
+            "Présence de Dessert / Pâtisseries",
+            "Présence de Légumes verts / Fruits cuits"
+        ]
+    },
+    {
+        "Lundi": [
+            "Présence de Garnitures Frites / Produits reconstitués",
+            "Présence de Viandes / Volailles / Poissons / Œufs",
+            "Présence de Féculents / Légumes secs",
+            "Présence de Fromages / Laitages",
+            "Présence de Charcuteries / Préparations pâtissières",
+            "Présence de Dessert / Pâtisseries",
+            "Présence de Légumes verts / Fruits cuits"
+        ],
+        "Mardi": [
+            "Présence de Garnitures Frites / Produits reconstitués",
+            "Présence de Crudités / Fruits Crus",
+            "Présence de Fromages / Laitages",
+            "Présence de Féculents / Légumes secs",
+            "Présence de Viandes / Volailles / Poissons / Œufs",
+            "Présence de Dessert / Pâtisseries",
+            "Présence de Légumes verts / Fruits cuits"
+        ],
+        "Mercredi": [
+            "Présence de Fromages / Laitages",
+            "Présence de Garnitures Frites / Produits reconstitués",
+            "Présence de Crudités / Fruits Crus",
+            "Présence de Viandes / Volailles / Poissons / Œufs",
+            "Présence de Féculents / Légumes secs",
+            "Présence de Dessert / Pâtisseries",
+            "Présence de Légumes verts / Fruits cuits"
+        ],
+        "Jeudi": [
+            "Présence de Garnitures Frites / Produits reconstitués",
+            "Présence de Charcuteries / Préparations pâtissières",
+            "Présence de Crudités / Fruits Crus",
+            "Présence de Féculents / Légumes secs",
+            "Présence de Fromages / Laitages",
+            "Présence de Dessert / Pâtisseries",
+            "Présence de Légumes verts / Fruits cuits"
+        ],
+        "Vendredi": [
+            "Présence de Fromages / Laitages",
+            "Présence de Garnitures Frites / Produits reconstitués",
+            "Présence de Viandes / Volailles / Poissons / Œufs",
+            "Présence de Charcuteries / Préparations pâtissières",
+            "Présence de Féculents / Légumes secs",
+            "Présence de Dessert / Pâtisseries",
+            "Présence de Légumes verts / Fruits cuits"
+        ]
+    },
+    {
+        "Lundi": [
+            "Présence de Crudités / Fruits Crus",
+            "Présence de Charcuteries / Préparations pâtissières",
+            "Présence de Viandes / Volailles / Poissons / Œufs",
+            "Présence de Fromages / Laitages",
+            "Présence de Féculents / Légumes secs",
+            "Présence de Dessert / Pâtisseries",
+            "Présence de Légumes verts / Fruits cuits"
+        ],
+        "Mardi": [
+            "Présence de Féculents / Légumes secs",
+            "Présence de Charcuteries / Préparations pâtissières",
+            "Présence de Crudités / Fruits Crus",
+            "Présence de Garnitures Frites / Produits reconstitués",
+            "Présence de Viandes / Volailles / Poissons / Œufs",
+            "Présence de Dessert / Pâtisseries",
+            "Présence de Légumes verts / Fruits cuits"
+        ],
+        "Mercredi": [
+            "Présence de Féculents / Légumes secs",
+            "Présence de Crudités / Fruits Crus",
+            "Présence de Viandes / Volailles / Poissons / Œufs",
+            "Présence de Charcuteries / Préparations pâtissières",
+            "Présence de Garnitures Frites / Produits reconstitués",
+            "Présence de Dessert / Pâtisseries",
+            "Présence de Légumes verts / Fruits cuits"
+        ],
+        "Jeudi": [
+            "Présence de Fromages / Laitages",
+            "Présence de Viandes / Volailles / Poissons / Œufs",
+            "Présence de Garnitures Frites / Produits reconstitués",
+            "Présence de Féculents / Légumes secs",
+            "Présence de Charcuteries / Préparations pâtissières",
+            "Présence de Dessert / Pâtisseries",
+            "Présence de Légumes verts / Fruits cuits"
+        ],
+        "Vendredi": [
+            "Présence de Fromages / Laitages",
+            "Présence de Crudités / Fruits Crus",
+            "Présence de Garnitures Frites / Produits reconstitués",
+            "Présence de Viandes / Volailles / Poissons / Œufs",
+            "Présence de Charcuteries / Préparations pâtissières",
+            "Présence de Dessert / Pâtisseries",
+            "Présence de Légumes verts / Fruits cuits"
+        ]
+    },
+    {
+        "Lundi": [
+            "Présence de Féculents / Légumes secs",
+            "Présence de Fromages / Laitages",
+            "Présence de Charcuteries / Préparations pâtissières",
+            "Présence de Garnitures Frites / Produits reconstitués",
+            "Présence de Viandes / Volailles / Poissons / Œufs",
+            "Présence de Dessert / Pâtisseries",
+            "Présence de Légumes verts / Fruits cuits"
+        ],
+        "Mardi": [
+            "Présence de Fromages / Laitages",
+            "Présence de Crudités / Fruits Crus",
+            "Présence de Viandes / Volailles / Poissons / Œufs",
+            "Présence de Garnitures Frites / Produits reconstitués",
+            "Présence de Féculents / Légumes secs",
+            "Présence de Dessert / Pâtisseries",
+            "Présence de Légumes verts / Fruits cuits"
+        ],
+        "Mercredi": [
+            "Présence de Féculents / Légumes secs",
+            "Présence de Crudités / Fruits Crus",
+            "Présence de Fromages / Laitages",
+            "Présence de Garnitures Frites / Produits reconstitués",
+            "Présence de Viandes / Volailles / Poissons / Œufs",
+            "Présence de Dessert / Pâtisseries",
+            "Présence de Légumes verts / Fruits cuits"
+        ],
+        "Jeudi": [
+            "Présence de Crudités / Fruits Crus",
+            "Présence de Féculents / Légumes secs",
+            "Présence de Charcuteries / Préparations pâtissières",
+            "Présence de Garnitures Frites / Produits reconstitués",
+            "Présence de Viandes / Volailles / Poissons / Œufs",
+            "Présence de Dessert / Pâtisseries",
+            "Présence de Légumes verts / Fruits cuits"
+        ],
+        "Vendredi": [
+            "Présence de Viandes / Volailles / Poissons / Œufs",
+            "Présence de Fromages / Laitages",
+            "Présence de Charcuteries / Préparations pâtissières",
+            "Présence de Féculents / Légumes secs",
+            "Présence de Crudités / Fruits Crus",
+            "Présence de Dessert / Pâtisseries",
+            "Présence de Légumes verts / Fruits cuits"
+        ]
+    },
+    {
+        "Lundi": [
+            "Présence de Féculents / Légumes secs",
+            "Présence de Garnitures Frites / Produits reconstitués",
+            "Présence de Crudités / Fruits Crus",
+            "Présence de Fromages / Laitages",
+            "Présence de Charcuteries / Préparations pâtissières",
+            "Présence de Dessert / Pâtisseries",
+            "Présence de Légumes verts / Fruits cuits"
+        ],
+        "Mardi": [
+            "Présence de Fromages / Laitages",
+            "Présence de Charcuteries / Préparations pâtissières",
+            "Présence de Garnitures Frites / Produits reconstitués",
+            "Présence de Féculents / Légumes secs",
+            "Présence de Viandes / Volailles / Poissons / Œufs",
+            "Présence de Dessert / Pâtisseries",
+            "Présence de Légumes verts / Fruits cuits"
+        ],
+        "Mercredi": [
+            "Présence de Viandes / Volailles / Poissons / Œufs",
+            "Présence de Fromages / Laitages",
+            "Présence de Charcuteries / Préparations pâtissières",
+            "Présence de Garnitures Frites / Produits reconstitués",
+            "Présence de Crudités / Fruits Crus",
+            "Présence de Dessert / Pâtisseries",
+            "Présence de Légumes verts / Fruits cuits"
+        ],
+        "Jeudi": [
+            "Présence de Garnitures Frites / Produits reconstitués",
+            "Présence de Féculents / Légumes secs",
+            "Présence de Viandes / Volailles / Poissons / Œufs",
+            "Présence de Crudités / Fruits Crus",
+            "Présence de Charcuteries / Préparations pâtissières",
+            "Présence de Dessert / Pâtisseries",
+            "Présence de Légumes verts / Fruits cuits"
+        ],
+        "Vendredi": [
+            "Présence de Crudités / Fruits Crus",
+            "Présence de Viandes / Volailles / Poissons / Œufs",
+            "Présence de Garnitures Frites / Produits reconstitués",
+            "Présence de Féculents / Légumes secs",
+            "Présence de Fromages / Laitages",
+            "Présence de Dessert / Pâtisseries",
+            "Présence de Légumes verts / Fruits cuits"
+        ]
+    },
+    {
+        "Lundi": [
+            "Présence de Viandes / Volailles / Poissons / Œufs",
+            "Présence de Crudités / Fruits Crus",
+            "Présence de Fromages / Laitages",
+            "Présence de Féculents / Légumes secs",
+            "Présence de Charcuteries / Préparations pâtissières",
+            "Présence de Dessert / Pâtisseries",
+            "Présence de Légumes verts / Fruits cuits"
+        ],
+        "Mardi": [
+            "Présence de Fromages / Laitages",
+            "Présence de Charcuteries / Préparations pâtissières",
+            "Présence de Viandes / Volailles / Poissons / Œufs",
+            "Présence de Garnitures Frites / Produits reconstitués",
+            "Présence de Féculents / Légumes secs",
+            "Présence de Dessert / Pâtisseries",
+            "Présence de Légumes verts / Fruits cuits"
+        ],
+        "Mercredi": [
+            "Présence de Féculents / Légumes secs",
+            "Présence de Crudités / Fruits Crus",
+            "Présence de Viandes / Volailles / Poissons / Œufs",
+            "Présence de Fromages / Laitages",
+            "Présence de Garnitures Frites / Produits reconstitués",
+            "Présence de Dessert / Pâtisseries",
+            "Présence de Légumes verts / Fruits cuits"
+        ],
+        "Jeudi": [
+            "Présence de Charcuteries / Préparations pâtissières",
+            "Présence de Crudités / Fruits Crus",
+            "Présence de Féculents / Légumes secs",
+            "Présence de Fromages / Laitages",
+            "Présence de Viandes / Volailles / Poissons / Œufs",
+            "Présence de Dessert / Pâtisseries",
+            "Présence de Légumes verts / Fruits cuits"
+        ],
+        "Vendredi": [
+            "Présence de Viandes / Volailles / Poissons / Œufs",
+            "Présence de Féculents / Légumes secs",
+            "Présence de Garnitures Frites / Produits reconstitués",
+            "Présence de Fromages / Laitages",
+            "Présence de Crudités / Fruits Crus",
+            "Présence de Dessert / Pâtisseries",
+            "Présence de Légumes verts / Fruits cuits"
+        ]
+    },
+    {
+        "Lundi": [
+            "Présence de Fromages / Laitages",
+            "Présence de Viandes / Volailles / Poissons / Œufs",
+            "Présence de Féculents / Légumes secs",
+            "Présence de Garnitures Frites / Produits reconstitués",
+            "Présence de Crudités / Fruits Crus",
+            "Présence de Dessert / Pâtisseries",
+            "Présence de Légumes verts / Fruits cuits"
+        ],
+        "Mardi": [
+            "Présence de Féculents / Légumes secs",
+            "Présence de Garnitures Frites / Produits reconstitués",
+            "Présence de Fromages / Laitages",
+            "Présence de Crudités / Fruits Crus",
+            "Présence de Charcuteries / Préparations pâtissières",
+            "Présence de Dessert / Pâtisseries",
+            "Présence de Légumes verts / Fruits cuits"
+        ],
+        "Mercredi": [
+            "Présence de Fromages / Laitages",
+            "Présence de Garnitures Frites / Produits reconstitués",
+            "Présence de Féculents / Légumes secs",
+            "Présence de Viandes / Volailles / Poissons / Œufs",
+            "Présence de Charcuteries / Préparations pâtissières",
+            "Présence de Dessert / Pâtisseries",
+            "Présence de Légumes verts / Fruits cuits"
+        ],
+        "Jeudi": [
+            "Présence de Garnitures Frites / Produits reconstitués",
+            "Présence de Crudités / Fruits Crus",
+            "Présence de Féculents / Légumes secs",
+            "Présence de Charcuteries / Préparations pâtissières",
+            "Présence de Viandes / Volailles / Poissons / Œufs",
+            "Présence de Dessert / Pâtisseries",
+            "Présence de Légumes verts / Fruits cuits"
+        ],
+        "Vendredi": [
+            "Présence de Viandes / Volailles / Poissons / Œufs",
+            "Présence de Crudités / Fruits Crus",
+            "Présence de Charcuteries / Préparations pâtissières",
+            "Présence de Fromages / Laitages",
+            "Présence de Garnitures Frites / Produits reconstitués",
+            "Présence de Dessert / Pâtisseries",
+            "Présence de Légumes verts / Fruits cuits"
+        ]
+    },
+    {
+        "Lundi": [
+            "Présence de Féculents / Légumes secs",
+            "Présence de Garnitures Frites / Produits reconstitués",
+            "Présence de Crudités / Fruits Crus",
+            "Présence de Charcuteries / Préparations pâtissières",
+            "Présence de Viandes / Volailles / Poissons / Œufs",
+            "Présence de Dessert / Pâtisseries",
+            "Présence de Légumes verts / Fruits cuits"
+        ],
+        "Mardi": [
+            "Présence de Fromages / Laitages",
+            "Présence de Garnitures Frites / Produits reconstitués",
+            "Présence de Charcuteries / Préparations pâtissières",
+            "Présence de Viandes / Volailles / Poissons / Œufs",
+            "Présence de Crudités / Fruits Crus",
+            "Présence de Dessert / Pâtisseries",
+            "Présence de Légumes verts / Fruits cuits"
+        ],
+        "Mercredi": [
+            "Présence de Charcuteries / Préparations pâtissières",
+            "Présence de Crudités / Fruits Crus",
+            "Présence de Féculents / Légumes secs",
+            "Présence de Fromages / Laitages",
+            "Présence de Viandes / Volailles / Poissons / Œufs",
+            "Présence de Dessert / Pâtisseries",
+            "Présence de Légumes verts / Fruits cuits"
+        ],
+        "Jeudi": [
+            "Présence de Féculents / Légumes secs",
+            "Présence de Crudités / Fruits Crus",
+            "Présence de Charcuteries / Préparations pâtissières",
+            "Présence de Garnitures Frites / Produits reconstitués",
+            "Présence de Fromages / Laitages",
+            "Présence de Dessert / Pâtisseries",
+            "Présence de Légumes verts / Fruits cuits"
+        ],
+        "Vendredi": [
+            "Présence de Charcuteries / Préparations pâtissières",
+            "Présence de Crudités / Fruits Crus",
+            "Présence de Féculents / Légumes secs",
+            "Présence de Garnitures Frites / Produits reconstitués",
+            "Présence de Fromages / Laitages",
+            "Présence de Dessert / Pâtisseries",
+            "Présence de Légumes verts / Fruits cuits"
+        ]
+    }
+]
